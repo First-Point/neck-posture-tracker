@@ -1,0 +1,26 @@
+{
+  "name": "Neck Posture Tracker",
+  "storeName": {
+    "ios": "Neck Posture Tracker"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "github": "https://github.com/First-Point"
+  },
+  "platforms": ["ios"],
+  "devices": ["iPhone", "iPad"],
+  "worksWith": ["AirPods Pro", "AirPods Max", "AirPods 4", "AirPods (3rd generation)"],
+  "category": "Health & Fitness",
+  "price": "free with optional Pro subscription or Lifetime purchase",
+  "stores": {
+    "appStore": "https://apps.apple.com/us/app/neck-posture-tracker/id6776663331"
+  },
+  "website": "https://firstpoint.com.tr/apps/neck-posture",
+  "privacyPolicy": "https://firstpoint.com.tr/neck-posture/privacy-policy.html",
+  "terms": "https://firstpoint.com.tr/neck-posture/terms-of-service.html",
+  "accessibility": "https://firstpoint.com.tr/apps/neck-posture/accessibility",
+  "support": "https://form.jotform.com/261614057801048",
+  "updated": "2026-11-23"
+}
